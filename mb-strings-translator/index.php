@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Malwarebytes Strings Translator (Technical Challenge)
- * Plugin URI: https://github.com/yourusername/mb-translator
+ * Plugin URI: https://github.com/dneuro/mb-test
  * Description: A plugin to translate strings into multiple languages using by Weglot API
  * Version: 1.0.0
  * Author: Dan
