@@ -28,6 +28,18 @@
 Each string should have a unique slug. The combination of `slug` and `lang` will serve as a unique key in the database table.
 
 
+--- 
+## TODO
+   - Complete and test the cron job functionality.
+   - Test Weglot API requests and update plugin functionality based on the responses.
+   - Verify all validations have been added.
+   - Clean up the codebase, if needed.
+   - Add PHPUnit tests.
+### stage 2:
+   - Add search-by-slug/text functionality to the admin page.
+   - Add update/delete functionality for translated strings.
+   - Update the styles of elements on the plugin admin page.
+   - Add pagination to results table.
 ---
 
 
